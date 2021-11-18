@@ -1,3 +1,7 @@
+git config --global user.name "mavi300378"
+git config --global user.email "mavicarattino@gmail.com"
+@pause
+
 git init
 git add .
 git commit -m "copia  %date%"
